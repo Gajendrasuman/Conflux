@@ -13,7 +13,7 @@ Conflux is a comprehensive web application designed to streamline the process of
 
 2. **Ticket Booking**:
    - User interface for browsing events and booking tickets.
-   - Integration with payment gateways (e.g., Stripe, PayPal).
+   - Integration with payment gateways (e.g., Stripe, PayPal, RazorPay).
    - QR code generation for ticket validation.
 
 3. **User Registration**:
@@ -37,7 +37,9 @@ Conflux is a comprehensive web application designed to streamline the process of
 
 1. **Front-end**:
    - Framework: Next.js
-   - Styling: Tailwind CSS or Material-UI
+   - Styling: Tailwind CSS or ShadCN
+   - Icons: Lucide-react
+   - State Management: Redux
    - API Calls: Next.js API routes
 
 2. **Back-end**:
