@@ -69,5 +69,5 @@ Conflux is a comprehensive web application designed to streamline the process of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/conflux.git
+   https://github.com/Gajendrasuman/Conflux.git
    cd conflux
